@@ -8,4 +8,4 @@
 2. Create environment using [environment.yml](environment.yml):<br>
 ```conda env create -f environment.yml```
 3. Activate environment:<br>
-```conda activate BloodCell```
+```conda activate SyntheticCells```
