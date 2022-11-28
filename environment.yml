@@ -1,0 +1,14 @@
+name: BloodCell
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.8.10
+  - cpuonly
+  - pytorch=1.8.0
+  - pip
+  - pip:
+    - opencv-python
+    - imageio
+    - scikit-image
+    - opensimplex
