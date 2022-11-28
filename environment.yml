@@ -1,4 +1,4 @@
-name: BloodCell
+name: SyntheticCells
 channels:
   - defaults
   - pytorch
