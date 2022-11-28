@@ -2,6 +2,8 @@
 
 ![Example tracking GIF](images/tracking_rbcs.gif)
 
+The code belonging to the paper: Deep learning trained on synthetic cells to quantify red blood cell deformability in malaria 
+
 ## Environment Prerequisites
 ### Conda
 1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
