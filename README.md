@@ -9,3 +9,8 @@
 ```conda env create -f environment.yml```
 3. Activate environment:<br>
 ```conda activate SyntheticCells```
+
+## Data
+The microfluidic device videos have been deposited on the Zenodo repository webserver. 
+
+(https://doi.org/10.5281/zenodo.7374342)
